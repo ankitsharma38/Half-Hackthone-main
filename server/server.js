@@ -1,3 +1,4 @@
+//Add .env file for mongoDB configuration
 require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
